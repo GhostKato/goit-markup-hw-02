@@ -1,0 +1,116 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: black;
+  background-color: #ffffff;
+}
+/* Logo */
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+}
+.logo-studio {
+  color: #2e2f42;
+}
+.footer-logo-studio {
+  color: #f4f4fd;
+}
+/* Navigation */
+.list-navigation {
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.list-navigation:hover {
+  color: #404bbf;
+}
+.list-navigation:focus {
+  color: #404bbf;
+}
+/* Addres */
+.addres {
+  line-height: 1.5;
+  color: #434455;
+}
+.addres:hover {
+  color: #404bbf;
+}
+.addres:focus {
+  color: #404bbf;
+}
+ul {
+  list-style-type: none;
+}
+/* Section 1 Effective Solutions and button */
+.section-effective-solutions-button {
+  background-color: #2e2f42;
+}
+.main-title {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1;
+}
+.main-button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.main-button:hover {
+  background-color: #404bbf;
+}
+.main-button:focus {
+  background-color: #404bbf;
+}
+/* Section 2 Our Strategy */
+.our-strategy-title {
+  font-size: 36px;
+  line-height: 1.1;
+}
+.our-strategy-type {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.our-strategy-type-description {
+  line-height: 1.5;
+}
+/* Section 3 Our Team */
+.our-team-title {
+  font-size: 36px;
+  line-height: 1.1;
+}
+.our-team-employee-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.our-team-employee-name-profession {
+  line-height: 1.5;
+}
+/* Section 4 Our Portfolio */
+.our-portfolio-title {
+  font-size: 36px;
+  line-height: 1.1;
+}
+.our-portfolio-type {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.our-portfolio-type-information {
+  line-height: 1.5;
+}
+.section-our-team {
+  background-color: #f4f4fd;
+}
+/* Footer */
+.footer-information {
+  color: #f4f4fd;
+  line-height: 1.5;
+}
+.footer {
+  background-color: #2e2f42;
+}
