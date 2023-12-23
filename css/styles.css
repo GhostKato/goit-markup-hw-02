@@ -1,15 +1,17 @@
 body {
   font-family: Roboto, sans-serif;
-  color: black;
+  color: #434455;
   background-color: #ffffff;
 }
 /* Logo */
 .logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .logo-studio {
   color: #2e2f42;
@@ -33,6 +35,7 @@ body {
 .addres {
   line-height: 1.5;
   color: #434455;
+  font-style: normal;
 }
 .addres:hover {
   color: #404bbf;
@@ -51,12 +54,15 @@ ul {
   color: #ffffff;
   font-size: 56px;
   line-height: 1;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 .main-button {
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
   line-height: 1.5;
+  cursor: pointer;
 }
 .main-button:hover {
   background-color: #404bbf;
@@ -68,6 +74,8 @@ ul {
 .our-strategy-title {
   font-size: 36px;
   line-height: 1.1;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .our-strategy-type {
   font-size: 20px;
@@ -76,11 +84,21 @@ ul {
 }
 .our-strategy-type-description {
   line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 /* Section 3 Our Team */
+.section-our-team {
+  background-color: #ffffff;
+}
 .our-team-title {
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+  letter-spacing: 0.02;
 }
 .our-team-employee-name {
   font-size: 20px;
@@ -89,11 +107,17 @@ ul {
 }
 .our-team-employee-name-profession {
   line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 /* Section 4 Our Portfolio */
 .our-portfolio-title {
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .our-portfolio-type {
   font-size: 20px;
@@ -102,6 +126,8 @@ ul {
 }
 .our-portfolio-type-information {
   line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .section-our-team {
   background-color: #f4f4fd;
