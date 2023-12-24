@@ -41,10 +41,10 @@ body {
   color: #434455;
   letter-spacing: 0.02em;
 }
-.addres:hover {
+.address-information:hover {
   color: #404bbf;
 }
-.addres:focus {
+.address-information:focus {
   color: #404bbf;
 }
 ul {
