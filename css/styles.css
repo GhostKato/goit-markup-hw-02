@@ -95,6 +95,9 @@ ul {
   color: #434455;
 }
 /* Section 3 Our Team */
+.section-our-team {
+  background-color: #f4f4fd;
+}
 .our-team-list {
   background-color: #ffffff;
 }
@@ -107,14 +110,14 @@ ul {
   color: #2e2f42;
   letter-spacing: 0.02;
 }
-.our-team-employee-name {
+.our-team-name {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.our-team-employee-name-profession {
+.our-team-profession {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -139,9 +142,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-}
-.section-our-team {
-  background-color: #f4f4fd;
 }
 /* Footer */
 .footer-information {
