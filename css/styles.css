@@ -3,6 +3,12 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
 /* Logo */
 .logo {
   color: #4d5ae5;
@@ -15,9 +21,6 @@ body {
 }
 .logo-studio {
   color: #2e2f42;
-}
-.footer-logo-studio {
-  color: #f4f4fd;
 }
 /* Navigation */
 .list-navigation {
@@ -145,6 +148,9 @@ ul {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.footer-logo-studio {
+  color: #f4f4fd;
 }
 .footer {
   background-color: #2e2f42;
